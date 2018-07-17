@@ -16,10 +16,10 @@ class StreamListener(StreamListener):
 
 #Since it wasn't explicitly mentioned, keeping the API keys as it is
 #API keys
-ckey = 'BKPjIzE5cKrSucstR4gEQORCv'
-csec = 's2QSmK7YxJSwFQWUItZK0nkWekqB1GTQwALgLXCgdMTXicvH0Z'
-atok = '2935116612-WMFzBFALHaYelf0SFKJwSK1Njx9pdJOWm3v120h'
-asec = 'avJvupYK5gTFlodS0vMVIWWCxyLNpv4KeEGPR6kFeXQ9H'
+ckey = ''
+csec = ''
+atok = ''
+asec = ''
 
 #Auth
 auth = OAuthHandler(ckey, csec)
